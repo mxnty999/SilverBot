@@ -1,1 +1,1 @@
-import SilverBot
+import silverbot
