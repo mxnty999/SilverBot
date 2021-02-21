@@ -6,7 +6,7 @@
     },
     "Control": {
       "Give full access to": ["Your Account ID"],
-      "Public Bot": "false" //if you just want for yourself keep it as false but for all your friends put as true
+      "Public Bot": "false" 
     },
     "Party": {
       "Cosmetics": {
@@ -22,11 +22,11 @@
         "Emote": "EID_happywave"
       },
       "Platform": "WIN",
-      "Join party on invitation": "false", //if you want to bot to join your friends lobby put to true if you dont keep as false
+      "Join party on invitation": "false", 
       "Status":""
       
 },
     "Friends": {
-      "Accept all friend requests": "false" // if you want the bot to not accept friend requests keep as false but if you want it to accept change to true
+      "Accept all friend requests": "false" 
     }
   }
