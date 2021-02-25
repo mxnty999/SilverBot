@@ -1,7 +1,6 @@
 {
     "Account": {
       "Email": "email@email.com",
-      "Password": "acc password",
       "Prefix": "!"
     },
     "Control": {
