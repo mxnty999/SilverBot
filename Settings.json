@@ -15,14 +15,14 @@
           "Season Level": 999,
           "battle pass tier": 999
         },
-        "Skin": "cid_a_007_athena_commando_f_streetfashioneclipse",
+        "Skin": "CID_188_Athena_Commando_F_StreetRacerWhite",
         "Backpack": "BID_023_Pinkbear",
         "Pickaxe": "HalloweenScythe",
         "Emote": "EID_happywave"
       },
       "Platform": "WIN",
       "Join party on invitation": "false", 
-      "Status":""
+      "Status":"Your status"
       
 },
     "Friends": {
