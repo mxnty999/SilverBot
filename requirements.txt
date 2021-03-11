@@ -6,5 +6,5 @@ fortnitepy
 FortniteAPIAsync
 BenBotAsync
 crayons
-SilverBot
+SilverBotFNPack
 discord
